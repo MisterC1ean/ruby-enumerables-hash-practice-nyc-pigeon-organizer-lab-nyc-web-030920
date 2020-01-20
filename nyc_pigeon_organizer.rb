@@ -1,3 +1,11 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  pigeons_by_name = {}
+  pigeons_by_name = {} 
+pigeon_data.reduce({}) do |memo, (key,value)|
+p memo
+p key
+p value
+memo
+end
+  
 end
